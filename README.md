@@ -21,15 +21,11 @@ Users are able to upload sneaker pictures, leave rating and comment, edit sneake
 ## Edit Sneaker Info Page
 ![editshoe](https://user-images.githubusercontent.com/42421298/49903455-277f6580-fe1c-11e8-87b1-2e6245491fc0.PNG)
 
-## Technology Used
-Mongoose
-
-Express
-
-Angular 
-
-Node.js
-
-MongoDB
+## Technologies Used
+* Mongoose
+* Express
+* Angular 
+* Node.js
+* MongoDB
 
 
