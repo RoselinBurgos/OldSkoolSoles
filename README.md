@@ -1,7 +1,7 @@
 # Old Skool Soles
+#### "Old Skool Soles" is a website exclusively for retro and old school sneakers. Users are able to upload sneaker pictures, leave rating and comment, edit sneaker info and remove sneakers from site. 
+
 ![top](https://user-images.githubusercontent.com/42421298/49905092-42080d80-fe21-11e8-87df-69b580ea5ae8.png)
-"Old Skool Soles" is a website exclusively for retro and old school sneakers. 
-Users are able to upload sneaker pictures, leave rating and comment, edit sneaker info and remove sneakers from site. 
 
 ## Home Page
 
